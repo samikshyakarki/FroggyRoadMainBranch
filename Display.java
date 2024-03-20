@@ -27,7 +27,7 @@ class Display extends JPanel implements ActionListener {
 	private boolean showLogo = false;
 	//New game variables.
 	private boolean newGame = false;
-
+///
 	/*
 	 * Variables.
 	 */
