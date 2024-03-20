@@ -28,7 +28,7 @@ class Display extends JPanel implements ActionListener {
 	//New game variables.
 	private boolean newGame = false;
 ///
-	/*
+	/*//
 	 * Variables.////
 	 */
 	//Creates a strip generator object.
