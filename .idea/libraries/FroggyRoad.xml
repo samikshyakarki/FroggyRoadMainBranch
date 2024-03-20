@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FroggyRoad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FroggyRoad.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
